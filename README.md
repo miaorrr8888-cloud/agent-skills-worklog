@@ -2,7 +2,7 @@
 
 技能按每项一个独立公开仓库整理，实际发布进度见下表。这里保留阶段性工作记录、来源说明和链接，不再集中存放技能源码。
 
-[逐项用途、完善与不足](SKILLS_GUIDE.md) · [工作记录](WORK_LOG.md) · [来源与许可](PROVENANCE.md)
+[新手下载与使用](USER_GUIDES_INDEX.md) · [逐项用途、完善与不足](SKILLS_GUIDE.md) · [工作记录](WORK_LOG.md) · [来源与许可](PROVENANCE.md)
 
 ## 独立技能仓库
 
