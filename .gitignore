@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+*profile*/
+*.log
+*.db
+*.sqlite*
+build/
+*.egg-info/
